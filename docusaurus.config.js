@@ -67,6 +67,7 @@ const config = {
         },
         items: [
           {
+            to: "/javascript",
             type: "doc",
             docId: "intro",
             position: "left",
