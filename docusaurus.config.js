@@ -11,7 +11,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://interview-8flverd23-tolgatopkac.vercel.app/",
+  url: "https://interview-cyan.vercel.app/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -67,9 +67,9 @@ const config = {
         },
         items: [
           {
-            to: "/javascript",
             type: "doc",
-            docId: "intro",
+            docId: "JavaScript/intro",
+            to: "category/javascript",
             position: "left",
             label: "JavaScript",
           },
